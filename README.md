@@ -1,7 +1,3 @@
-Here’s the updated README with the images included:
-
----
-
 # 🌦️ Weather App
 
 Welcome to the **Weather App**—your go-to tool for real-time weather updates! This sleek web application lets you effortlessly search for weather information across different cities, offering up-to-date details on temperature, humidity, and wind speed. Perfect for planning your day or staying prepared for changing weather conditions.
@@ -91,7 +87,3 @@ This project is open-source and licensed under the [MIT License](LICENSE). Feel 
 ## 📧 Contact
 
 For any questions or feedback, please refer to the contact details in the repository.
-
----
-
-Enjoy using the Weather App, and stay informed about the weather wherever you go!
